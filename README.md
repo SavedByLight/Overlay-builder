@@ -1,4 +1,4 @@
-# Overlay-builder
+# Overlay-builder.
 Using Github Actions to build device specific overlays for Phh based GSI's 
 
 ## How to use
